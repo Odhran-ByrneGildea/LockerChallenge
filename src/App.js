@@ -1,5 +1,5 @@
 import React, { useMemo, useState, useEffect } from "react";
-import Data from 'C:/Users/odhra/Desktop/my-app/src/components/challenge.json'
+import Data from './components/challenge.json'
 import Table from "./components/Table";
 import styled from 'styled-components'
 
